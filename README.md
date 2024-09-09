@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sophielluo
-- 👀 I’m interested in swe & product management
+- 👀 I’m interested in swe, product management & design.
 - 🌱 I’m currently learning react
